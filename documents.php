@@ -66,13 +66,13 @@
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Education Loan Application <a href="Education Loan Application.pdf" download>TBA</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Rin Raksha Voucher <a href="Rin Raksha Voucher.pdf" download>TBA</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Asset Liability Statement <a href="Asset Liability Statement.pdf" download>TBA</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Affidavit <a href="Affidavit.pdf" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Affidavit <a href="affidavit.pdf">TBA</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; No subsidy under CSIS declaration <a href="No subsidy under CSIS declaration.pdf" download>TBA</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; PDC letter <a href="PDC letter.pdf" download>TBA</a></li>
                         
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Check List for IIT Bhilai <a href="check_list.odt" download>Click Here!</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Gap Certificate <a href="gap_certificate.odt" download>Click Here!</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Reimbursement of acceptance fee & registration fee <a href="reimbursement_of_acceptance_fee_and_registration_fee.odt" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Check List for IIT Bhilai <a href="check_list.odt" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Gap Certificate <a href="gap_certificate.odt" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Reimbursement of acceptance fee & registration fee <a href="reimbursement_of_acceptance_fee_and_registration_fee.odt" download>TBA</a></li>
 
                       </ul>
                   </div>
