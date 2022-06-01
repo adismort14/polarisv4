@@ -63,12 +63,12 @@
                     
                     <div class="bank">
                       <ul class="bank__list">
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Education Loan Application <a href="Education Loan Application.pdf" download>Click Here!</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Rin Raksha Voucher <a href="Rin Raksha Voucher.pdf" download>Click Here!</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Asset Liability Statement <a href="Asset Liability Statement.pdf" download>Click Here!</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Affidavit <a href="Affidavit.pdf" download>Click Here!</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; No subsidy under CSIS declaration <a href="No subsidy under CSIS declaration.pdf" download>Click Here!</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; PDC letter <a href="PDC letter.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Education Loan Application <a href="Education Loan Application.pdf" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Rin Raksha Voucher <a href="Rin Raksha Voucher.pdf" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Asset Liability Statement <a href="Asset Liability Statement.pdf" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Affidavit <a href="Affidavit.pdf" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; No subsidy under CSIS declaration <a href="No subsidy under CSIS declaration.pdf" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; PDC letter <a href="PDC letter.pdf" download>TBA</a></li>
                         
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Check List for IIT Bhilai <a href="check_list.odt" download>Click Here!</a></li>
                         <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Gap Certificate <a href="gap_certificate.odt" download>Click Here!</a></li>
@@ -90,9 +90,11 @@
             <div class="container">
                 <div class="fee">
                     <h2 class="heading-secondary"><span>Regarding Fee Payment</span></h2>
-                    <p class="fee__text">Fee Structure (Btech 2021-22) - <a href="./fee/FeeStructure2021_22-BTech.pdf" target="_blank">Click Here!</a></p><br>
-                    <p class="fee__text">Fee Structure (Mtech/PhD) - <a href="./fee/FeeStructure2021_22-Mtech-Phd.pdf" target="_blank">Click Here!</a></p><br>
-                    <p class="fee__text">Fee Structure (M.Sc) - <a href="./fee/FeeStructure2021_22-MSc.pdf" target="_blank">Click Here!</a></p><br>
+                    <p class="fee__text">Fee Structure (Btech 2022-23) - <a href="./fees_updated/.pdf" target="_blank">Click Here!</a></p><br>
+                    <p class="fee__text">Fee Structure (Mtech) - <a href="./fees_updated/mtech.pdf" target="_blank">Click Here!</a></p><br>
+                    <p class="fee__text">Fee Structure (M.Sc) - <a href="./fees_updated/msc.pdf" target="_blank">Click Here!</a></p><br>
+                    <p class="fee__text">Fee Structure (PhD) - <a href="./fees_updated/phd.pdf" target="_blank">Click Here!</a></p><br>
+                    <p class="fee__text">Fee Structure (Foreign Students) - <a href="./fees_updated/foreign.pdf" target="_blank">Click Here!</a></p><br>
 
                     <p class="fee__text">Generate the Fee Payment Challan through SBI Collect Payment Page. <a href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" target="_blank">Click Here!</a><br>For procedure of payment through SBI Collect.<a href="Payment through SBI i collect.pdf" target="_blank"> Click Here!</a></p>
                     <p class="fee__text">No cash payment option will be available at the institute. As enquired for payment mode, following options are made available:</p>
