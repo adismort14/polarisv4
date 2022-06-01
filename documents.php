@@ -42,9 +42,9 @@
                   <p class="documents__text">The attached respective registration forms are necessary at the time of Registration.<br> Please download and fill the respective forms.</p>
                   <div class="bank">
                       <ul class="bank__list">
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for UG Students. <a href="./forms/ug.pdf" download>Click Here!</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for PG Students. <a href="./forms/pg.pdf" download>Click Here!</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for M.Sc Students. <a href="./forms/msc.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for UG Students. <a href="./forms/ug.pdf" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for PG Students. <a href="./forms/pg.pdf" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for M.Sc Students. <a href="./forms/msc.pdf" download>TBA</a></li>
 
                       </ul>
                   </div>
