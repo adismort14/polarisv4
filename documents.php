@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Click Here!<!DOCTYPE html>
 <html lang="en">
 
     <head>
@@ -42,9 +42,9 @@
                   <p class="documents__text">The attached respective registration forms are necessary at the time of Registration.<br> Please download and fill the respective forms.</p>
                   <div class="bank">
                       <ul class="bank__list">
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for UG Students. <a href="./forms_updated/btech_msc.pdf" download>TBA</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for PG Students. <a href="./forms_updated/mtech_phd.pdf" download>TBA</a></li>
-                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for M.Sc Students. <a href="./forms_updated/btech_msc.pdf" download>TBA</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for UG Students. <a href="./forms_updated/btech_msc.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for PG Students. <a href="./forms_updated/mtech_phd.pdf" download>Click Here!</a></li>
+                        <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Registration Form for M.Sc Students. <a href="./forms_updated/btech_msc.pdf" download>Click Here!</a></li>
 
                       </ul>
                   </div>
