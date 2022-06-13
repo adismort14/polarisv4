@@ -369,7 +369,7 @@ body {
     padding-bottom: .8rem;
     transition: all .2s; }
   .navigation__link:hover, .navigation__link:active {
-    color: #1c8ad3; }
+    color: #04314f; }
   @media (max-width: 1024px) {
     .navigation__button {
       background-color: #3498db;
@@ -547,7 +547,7 @@ body {
   display: block; }
 
 .dropdown-link:hover, .dropdown-link:active {
-  background-color: #7cacff; }
+  background-color: #04314f; }
 
 .dropdown-btn {
   background-color: transparent;
@@ -562,7 +562,7 @@ body {
   display: block; }
 
 .dropdown:hover .dropdown-btn {
-  color: #1c8ad3;
+  color: #04314f;
   cursor: pointer; }
 
 @media (max-width: 1024px) {

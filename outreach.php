@@ -52,7 +52,7 @@
 
                 <div class="outreach">
                     <h3 class="heading-tertiary">Student Outreach Team</h3>
-                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Secretary</span> Tanish Gupta</p><br>
+                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Secretary</span> Madhur Jain</p><br>
                     <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> A team of dedicated individuals acting as the bridge for communication between the institute’s student community and other colleges, organizations or companies. We as a team under the Council of Student Affairs (CoSA) aim to help the student community of IIT Bhilai in all possible aspects whether it is placement stats, internship opportunities, promotions, etc.</p><br>
 
                     <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>What's our work?</span></p>

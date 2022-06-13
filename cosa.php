@@ -48,7 +48,7 @@
 
                 <div class="clubs">
 
-                    <h3 class="heading-tertiary">President - Abhishek Yadav</h3>
+                    <h3 class="heading-tertiary">President - Yash Teckchandani</h3>
 
                     <p class="clubs__text">
                     On behalf of CoSA, I would like to extend a warm and heartiest welcome to each one of you to IIT Bhilai. Past two years have been rough for all and yet you have made it to the prestigious IIT system. With all your efforts and patience paid off, the wait for the beginning of a completely new and exciting phase of your life as an IITian has now ended. Here you will find exceptional experiences which will help you to grow, develop, and explore new interests helping you fully realize your potential. We welcome you to witness a culture of diversity, tradition, commitment to academic excellence and a plethora of opportunities to grow and develop. These 4 years of under-graduate degree shall not only help in igniting the best of scholastic achievements but also endow you with a wide range of exploration and explication in all sorts of hobbies and pursuits. You make friends for life here, and small and significant steps will render you in becoming better humans and professionals in years to come. I am sure you will enjoy your stay at IIT Bhilai and will contribute to positive growth as a part of this esteemed institution.
@@ -58,12 +58,12 @@
                     <!-- <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/IITBhilai.Cult/" class="outreach__link">Facebook</a>, <a href="https://www.instagram.com/invites/contact/?i=12z1v3ln7vkge&utm_content=gvasybz" class="outreach__link">Instagram</a></p> -->
                     <br>
 
-                    <h3 class="heading-tertiary">General Secretary of Cultural Affairs - Sai Raveendra</h3>
-                    <h3 class="heading-tertiary">General Secretary of Games & Sports Affairs - Utkarsh Nigam</h3>
-                    <h3 class="heading-tertiary">General Secretary Science and Technology - Rishabh Ranjan</h3>
-                    <h3 class="heading-tertiary">General Secretary of Academic Affairs - Anjana Kannan</h3>
-                    <h3 class="heading-tertiary">Events Head - Ankith Masa</h3>
-                    <h3 class="heading-tertiary">Treasurer - Shubham Patel</h3>
+                    <h3 class="heading-tertiary">General Secretary of Cultural Affairs - Unnam Jessica</h3>
+                    <h3 class="heading-tertiary">General Secretary of Games & Sports Affairs - Aniket Mohanty</h3>
+                    <h3 class="heading-tertiary">General Secretary Science and Technology - Raushan Kumar</h3>
+                    <h3 class="heading-tertiary">General Secretary of Academic Affairs - Prarabdh Shukla</h3>
+                    <h3 class="heading-tertiary">Events Head - Chinmay Ratnaparkhe</h3>
+                    <h3 class="heading-tertiary">Treasurer - Rajagopalan R</h3>
 
                     <br>
 

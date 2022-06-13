@@ -52,13 +52,13 @@
             <div class="modal-content">
                 <div class="modal-header">
                 <span class="close">&times;</span>
-                <h2>Checklist for Freshers 2021</h2>
+                <h2>Checklist for Freshers 2022</h2>
                 </div>
                 <div class="modal-body">
                     <ul>
 
                     <!-- <li><strong>Important Notice</strong> PG Orientation Schedule <a href="PG_orientation_2021.pdf" target="_blank" class="notification">Click Here!</a></li> -->
-                    <li><strong>Important Notice</strong> BTech-2021 Orientation Schedule <a href="UG_orientation_2021.pdf" target="_blank" class="notification">Click Here!</a></li>
+                    <li><strong>Important Notice</strong> BTech-2022 Orientation Schedule <a href="UG_orientation_2022.pdf" target="_blank" class="notification">Click Here!</a></li>
 
                     <!-- <li><strong>Important Notice</strong> Admission due to covid <a href="Notice on admission due to covid.pdf" target="_blank" class="notification">Click Here!</a></li>
 
@@ -69,7 +69,7 @@
                         
 
                         
-                        <li>For any queries regarding IIT Bhilai and 2021-22 admissions please feel free to contact any of the <a href="mentors.php" class="notification">Mentors.</a><br>
+                        <li>For any queries regarding IIT Bhilai and 2022-23 admissions please feel free to contact any of the <a href="mentors.php" class="notification">Mentors.</a><br>
 
             
 
@@ -115,7 +115,7 @@
                 <div class="header__hero-box">
                     <h1 class="heading-primary">Student Mentorship Program</h1>
                     <p class="heading-subtitle">Of the Student, By the Student, For the Student</p>
-                    <a href="Brochure 2021.pdf" class="btn btn-download" download>Brochure 2021&nbsp; <i class="fas fa-download"></i></a><br/>
+                    <a href="Brochure 2022.pdf" class="btn btn-download" download>Brochure 2022&nbsp; <i class="fas fa-download"></i></a><br/>
                     <!-- <a href="#" class="btn btn-live" id="modalBtn">Live Updates &nbsp; <i class="fas fa-sync"></i></a> -->
                 </div>
             </div>
@@ -156,24 +156,24 @@
             <div class="container">
                 <div class="message">
                     <h2 class="heading-secondary">Message from <br><span>Council of Student Affairs</span></h2>
-                    <p class="message__text"><span>Dear friends,</span> <br><br>
-                        On behalf of CoSA, I would like to extend a warm and heartiest welcome to each one of you to IIT Bhilai. Past two years have been rough for all and yet you have made it to the prestigious IIT system. With all your efforts and patience paid off, the wait for the beginning of a completely new and exciting phase of your life as an IITian has now ended. Here you will find exceptional experiences which will help you to grow, develop, and explore new interests helping you fully realize your potential. We welcome you to witness a culture of diversity, tradition, commitment to academic excellence and a plethora of opportunities to grow and develop. These 4 years of under-graduate degree shall not only help in igniting the best of scholastic achievements but also endow you with a wide range of exploration and explication in all sorts of hobbies and pursuits. You make friends for life here, and small and significant steps will render you in becoming better humans and professionals in years to come. I am sure you will enjoy your stay at IIT Bhilai and will contribute to positive growth as a part of this esteemed institution.
+                    <p class="message__text"><span>Hello everyone,</span> <br><br>
+                    On behalf of the Council of Student affairs (CoSA) I would like to welcome you all to this prestigious Institute. I can understand it was not easy and the past few years have been tough for you all but trust me this place will give you ample opportunities to live up to your dreams. The journey till now was a marathon between lakhs of aspirants preparing to get into the best of colleges and I would like to congratulate you all for making it through. But from now things will change, there won’t be any marathon but you racing with your dreams. Every student of this institute is special and will excel wherever he/she goes. Upto this point, the dream was to be here. From now on, the real challenge will start to select a career stream, work for it and finally achieve it. This is a place which will build that spark inside you to live your dreams to the fullest, whether it be sports, culturals or science and technology, you won’t be missing any opportunity at this place. So at last, congratulations to all of you and welcome to IIT Bhilai.
                     </p><br>
-                    <p class="message__byline">With best wishes,<br>Abhishek Yadav</p>
+                    <p class="message__byline">With best wishes,<br>Yash Teckchandani</p>
                     <div class="row">
                         <div class="dev">
                              <div class="col-1-of-4">
                                 <figure class="dev__shape">
-                                    <img src="img/President.jpg" alt="Abhishek Yadav" class="dev__img dev__img--president">
-                                    <figcaption class="dev__caption">Abhishek Yadav</figcaption>
+                                    <img src="img/President.jpg" alt="Yash Teckchandani" class="dev__img dev__img--president">
+                                    <figcaption class="dev__caption">Yash Teckchandani</figcaption>
                                 </figure>
                                 <div class="dev__name">President, CoSA</div>
                                 <a href="mailto:President_CoSA@iitbhilai.ac.in" class="dev__profile">
                                     <i class="far fa-envelope dev__profile--icon"></i>
                                 </a>
-                                <a href="https://www.facebook.com/abhishek.yaduvanshi.758" class="dev__profile">
+                                <!--<a href="" class="dev__profile">
                                     <i class="fab fa-facebook-f dev__profile--icon"></i>
-                                </a>
+                                </a> -->
                                 <!-- <div class="dev__phone">
                                     <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7470448887
                                 </div> -->
@@ -269,10 +269,10 @@
                         <a href="https://www.facebook.com/pramodhrachuri" target="_blank" class="dev__profile">
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
-                        <div class="dev__phone">
-                            &nbsp;
-                        </div>
-                    </div>
+                        <!--<div class="dev__phone">
+                            &nbsp; 
+                        </div>  -->
+                    </div> 
 
                     <div class="col-1-of-3">
                         <figure class="dev__shape">
@@ -292,7 +292,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="row">
                 <div class="dev">
                     <!-- <div class="col-1-of-4">&nbsp;</div> -->
@@ -427,6 +426,89 @@
                         </a>
                         <div class="dev__phone">
                             <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9981090998
+                        </div>
+                    </div>
+
+
+                    <!-- <div class="col-1-of-4">&nbsp;</div> -->
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="dev">
+                    <!-- <div class="col-1-of-4">&nbsp;</div> -->
+
+                    <div class="col-1-of-2">
+                        <figure class="dev__shape">
+                            <img src="img/devs/aditya.jpeg" alt="Aditya Sankhla" class="dev__img">
+                            <figcaption class="dev__caption">Aditya Sankhla</figcaption>
+                        </figure>
+                        <div class="dev__name"><strong>Aditya Sankhla</strong><br/>Website Manager - 2022</div>
+                        <a href="mailto:adityasa@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.instagram.com/adismort" target="_blank" class="dev__profile">
+                            <i class="fab fa-instagram dev__profile--icon"></i>
+                        </a>
+                    
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8369504378
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-2">
+                        <figure class="dev__shape">
+                            <img src="img/devs/ravinder.jpg" alt="Ravinder Sharma" class="dev__img">
+                            <figcaption class="dev__caption">Ravinder Sharma</figcaption>
+                        </figure>
+                        <div class="dev__name"><strong>Ravinder Sharma</strong><br/>Website Manager - 2022</div>
+                        <a href="mailto:ravindersh@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://instagram.com/chief_ravinder/" target="_blank" class="dev__profile">
+                            <i class="fab fa-instagram dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9717503220
+                        </div>
+                    </div>
+
+
+                    <!-- <div class="col-1-of-4">&nbsp;</div> -->
+                </div>
+            </div>
+             <div class="row">
+                <div class="dev">
+                    <!-- <div class="col-1-of-4">&nbsp;</div> -->
+
+                    <div class="col-1-of-2">
+                        <figure class="dev__shape">
+                            <img src="img/devs/rohit.jpg" alt="Rohit Ashwani" class="dev__img">
+                            <figcaption class="dev__caption">Rohit Ashwani</figcaption>
+                        </figure>
+                        <div class="dev__name"><strong>Rohit Ashwani</strong><br/>Website Manager - 2022</div>
+                        <a href="mailto:rohitas@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.instagram.com/rohitashwani288/" target="_blank" class="dev__profile">
+                            <i class="fab fa-instagram dev__profile--icon"></i>
+                        </a>                    
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9260961237
+                        </div>
+                    </div>
+
+                    <div class="col-1-of-2">
+                        <figure class="dev__shape">
+                            <img src="img/devs/tushar.jpg" alt="Tushar Bansal" class="dev__img">
+                            <figcaption class="dev__caption">Tushar Bansal</figcaption>
+                        </figure>
+                        <div class="dev__name"><strong>Tushar Bansal</strong><br/>Website Manager - 2022</div>
+                        <a href="mailto:tusharbansal@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7048905680
                         </div>
                     </div>
 

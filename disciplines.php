@@ -78,6 +78,7 @@
 
                         <ul class="info__list">
                             <li class="info__item">Mechanical Engineering</li>
+                            <li class="info__item">Mechatronics</li>
 
 
                         </ul>
@@ -331,6 +332,32 @@ The curriculum of the department encourages exploration across disciplines, whil
                             <li class="info__item">Make yourself comfortable with programming in any one language (preferably C/C++) during the first year itself.</li>
                             <li class="info__item">Familiarizing yourself with Arduino and other micro-controllers, it will help you a lot in your independent project at the end of the first semester.</li>
                             <li class="info__item">The first year mechanical curriculum consists of a good number of Math Courses. Do not ignore them as they carry with them significant credits of the semester.</li>
+                        </ul>
+                    </div>
+
+                    <p class="intro-me__text"><em>* The tips are in no sense a pre-requisite for any of the courses you take during your semesters. They are just a set of pointers to get you in the right direction without having to fumble over a plethora of resources.</em></p>
+                </div>
+            </div>
+        </section>
+
+
+
+        <div class="line-break"></div>
+
+        <section class="section">
+            <div class="container">
+                <div class="intro-me">
+                    <h2 class="heading-secondary">Mechatronics - An Intro</h2>
+                    
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i>Mechatronics Hacks</h3>
+
+                        <ul class="info__list">
+                            <li class="info__item">Focus on projects as much as possible. Tinker with Arduino, sensors and actuators on weekends and try to learn about them as mush as possible.</li>
+                            <li class="info__item">A decent knowledge of a programming language like2 C/C++ or Python would be really helpful.</li>
+                            <li class="info__item">Since the discipline of Mechatronics involves the concepts of both mechanical engineering and electronics engineering, a basic knowledge of the fundamentals of these disciplines would be of a great help.</li>
+                            <li class="info__item">Try to revise JEE topics relevant to Mechatronics such as Mechanics, Solid Mechanics (elasticity, stress, strain, stress-strain curve etc.), Electrodynamics and Circuits, and basics of Electronic devices (diodes, transistors etc.)</li>
+                            <li class="info__item">Last but most important, do take your 1st sem Digital Fabrication course very seriously, as there you are taught CAD modelling and basics of fabrication, which would prove to be very useful to you in further sems.</li>
                         </ul>
                     </div>
 

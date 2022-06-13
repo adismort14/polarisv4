@@ -48,8 +48,8 @@
                 <h2 class="heading-secondary">Motorsports</h2>
                 <div class="clubs">
                   <h3 class="heading-tertiary">Faculty Advisor - Dr. Pravesh Chandra Shukla</h3>
-                  <h3 class="heading-tertiary">Team Captian - Ketha Jaya Sandeep</h3>
-                  <h3 class="heading-tertiary">Vice Captian - Prajyot Jadhav</h3><br>
+                  <h3 class="heading-tertiary">Team Captain - Ketha Jaya Sandeep</h3>
+                  <h3 class="heading-tertiary">Vice Captain - Prajyot Jadhav</h3><br>
 
                     <p class="clubs__text">IIT Bhilai Motorsports was founded in 2017, by a group of enthusiastic engineering students in IIT Bhilai, which aims to inculcate and promote automotive culture in the insti tute. It is a team fuelled by passion and driven by desire, one that has grown in strength ever since its inception.Currently, the team has 40+ members and comprises a core of 15 members. The team is all set to participate in Enduro Student India 2021<br><br></p>
                 </div>

@@ -48,7 +48,7 @@
 
                 <div class="clubs">
 
-                    <h3 class="heading-tertiary">General Secretary - Sai Raveendra</h3>
+                    <h3 class="heading-tertiary">General Secretary - Unnam Jessica</h3>
 
                     <p class="clubs__text">We all, as a part of an elite league of institutes, aspire to work at the frontiers of human knowledge, innovate technology, initiate revolutions in science and propel national development to new heights. But often in such a competitive environment, work is stressed to the point of mania and this is when comes in the need of recreation. Rediscover your hobbies and explore new ones with Clubs at IIT Bhilai. Mind you there is absolutely no bound on anyone’s interest which also means that there is no bound on how many clubs you can be in – it is all up to you. Currently the following clubs are functional and conduct their respective activities at a regular basis:</p>
 
@@ -67,7 +67,7 @@
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">Renaissance : The Fine Arts Club</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Shaleen Malik</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Vedhamsh Bode</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> Arts club is all about providing a platform for every student to express their imagination,creativity,ideas or a world view through different artworks.The club provides you an environment in finding your hidden talent and endeavors to help the students cope with academic stress and create an enjoyable ambience for them.
 </p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Objective:</span> The club involves in various events including Meraz (The Cultural Fest) Decoration, participation in Inter IIT Cultural Meet and organizing different activities like organising drawing competition, festival decoration, T-shirt painting, etc in the institute throughout the year.</p><br>
@@ -93,7 +93,7 @@
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">Beathackers : The Dance Club</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Harshita Sankhla</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Siddhi Agarwal</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span>"Dance is one of the ways to express ourselves and to overcome the stress of our daily lives". Beathackers is the official dance club of IIT Bhilai. Feel your feet tingling when the bass drops? Wanna learn a moonwalk or sway like Hrithik? If yes, then this the place where you can let the beats have control. The motive of the club is to make students learn about various dance forms such as jazz, break dance, hip hop and some of the popular western forms. The objective is to prepare a strong team for participating in dance events at national and international levels. The club organizes various workshops and zumba sessions throughout the year.</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Objective:</span></p>
 
@@ -195,7 +195,7 @@ In our daily pursuit to achieve professional excellence we often neglect certain
 
                     <div class="outreach">
                         <h3 class="heading-tertiary">The Pixel Snappers : The Photography Club</h3>
-                        <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Yash Teckchandani and Satvik Vemuganti</p><br>
+                        <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Amogh Joshi and Ankita Awasthi</p><br>
                         <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> From the very beginning of the IIT Bhilai members of the club have showed their dedication and covered all the events organised inside the institute. We, as the members of the photography club, seek to display our love for photography through the consecutive criticism of our peers, leisure activities that involve photography, and the promotion of photography in and around the IIT Bhilai campus.</p><br>
 
                         <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Activities: </span> The club have captured moments from every event whether it was cultural event or NSS activity in both photos as well as videos. Members of the club have also covered all the editions of PRAYATNA (Intra College Sports Meet). Club has organised photography competitions weekly starting from IIT Bhilai’s first batch itself and giving prizes to winners. There has been a regular interaction among the club members to exchange their knowledge and improve one's skill in photography. The club plays a major role in running the institute's YouTube channel as a content creator and editor .
@@ -226,7 +226,7 @@ In our daily pursuit to achieve professional excellence we often neglect certain
 
                       <div class="cultural">
                           <h3 class="heading-tertiary">DesignX : The Digital Arts Club</h3>
-                          <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Chinmay Ratnaparkhe</p><br>
+                          <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Lovy Verma</p><br>
                           <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> DesignX is a newly formed Digital Arts Club of IIT Bhilai.
 Everyone is Creative. At some point, everyone displays their Creative Skill to the World.
 We, at DesignX, wish to channel that Creativity to more Artistic and Practical Tasks. DesignX is not only about making some cool designs, but also learning things on the way. DesignX designs posters, certificates and T-Shirts for several Clubs and events at IIT Bhilai.
@@ -255,7 +255,7 @@ We, at DesignX, wish to channel that Creativity to more Artistic and Practical T
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">G.O.A.L.S - The General Oratory And Literary Society</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinators:</span>  Prarabdh Shukla and Vishesh Thakur</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinators:</span>  M.V.Kiran Sooraj and Rishit Agarwal</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> GOALS, which stands for General Oratory And Literary Society is a society which sprung from the Orators club. Initially confined to the arena of public-speaking, it was decided that the club would expand its ventures and dabble in other literary fields too. The society encourages and provides a platform to budding writers and orators to put forth their views. The society is a vibrant one, with lots of regular and interesting activities like Debates and GDs, that both serve to be fun as well as beneficial. Every student taking part in these activities is encouraged to come out of his/her shell and start communicating effectively.<br><br>
                       GOALS has a weekly online edition - EXPRESSO, which features artistic literary works. The society also has its own newsletter, called the Couch Potato. The contents are typically informal and talk about the most interesting things happening in and around the campus. As GOALS works for nurturing the speaking and writing skills of its members, for developing critical thinking and leadership abilities it organises MUN - Model United Nations. In all, it is a society that's definitely worth joining, if you want a major upgrade to your public skills!
 </p> <br>
@@ -278,7 +278,7 @@ We, at DesignX, wish to channel that Creativity to more Artistic and Practical T
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">FPS - The Film Production Society</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Secretary:</span>  Atharva Shendage and Vanisha Agrawal</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Secretary:</span>  Aishika Nandi </p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> One of the newest clubs of IIT Bhilai. The ideal club to get your filmmaking skills out to people. The club is responsible for all the video related activities at IIT Bhilai from Fresher intro video to Short movie making. This most versatile club will give you an all round experience beginning from story writing, scripting, screenplay to acting, shooting and video editing.
 FPS also organises competitions and workshops on video editing, short film making and short movie making.
 
